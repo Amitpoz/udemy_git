@@ -9,3 +9,7 @@ if [ "" != "$REMOTES" ]; then
     exit 1
   fi
 fi
+
+
+"aaa"
+"bbb"
